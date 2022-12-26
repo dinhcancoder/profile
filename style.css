@@ -345,6 +345,10 @@ span {
   box-shadow: 2px 3px 10px rgb(30, 30, 30);
 }
 
+.profile-message a {
+  text-decoration: none;
+}
+
 .profile-message:hover {
   color: white;
   background-color: #4a6cf7;
